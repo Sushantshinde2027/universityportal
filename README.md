@@ -1,7 +1,6 @@
 # ADCET Portal
 
-The **ADCET portal** website (React + Vite) — a college website for Anantrao
-Deshpande College of Engineering & Technology, Ashta.
+The **ADCET portal** website (React + Vite) — a college website for Annasaheb Dange College of Engineering & Technology, Ashta.
 
 This is the portal **without the AI chatbot**: the floating assistant widget,
 the `POST /api/ask` RAG endpoint, the vector index and the ingest tooling have
