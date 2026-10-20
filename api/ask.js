@@ -297,9 +297,24 @@ function informativeMatchScore(query, item) {
 
     if (words.length === 0) return 0;
 
-    const haystack = (item.title + "\n" + item.content).toLowerCase();
+    // Cheap stemmer: "facilities"/"facility", "students"/"student"
+    // and "courses"/"course" count as the same subject word.
+    function sameWord(a, b) {
 
-    const matched = words.filter((word) => haystack.includes(word));
+        if (a === b) return true;
+
+        if (a.length < 4 || b.length < 4) return false;
+
+        return a.slice(0, 4) === b.slice(0, 4);
+    }
+
+    const haystackWords = (item.title + " " + item.content)
+        .toLowerCase()
+        .match(/[a-z0-9]+/g) || [];
+
+    const matched = words.filter((word) =>
+        haystackWords.some((hay) => sameWord(word, hay))
+    );
 
     return matched.length / words.length;
 }
@@ -404,18 +419,16 @@ function generateAnswer(results, question) {
         return NOT_FOUND_ANSWER;
     }
 
-    // Relevance gate. A single fact rarely repeats the whole
-    // question, so a weak vocabulary overlap only decides the
-    // matter when the meaning is also far off. A category match
-    // always answers.
-    if (best.category_score === 0) {
-
-        const weakWords = informativeMatchScore(question, best) < 0.5;
-        const weakMeaning = best.semantic_score < 0.60;
-
-        if (weakWords && weakMeaning) {
-            return NOT_FOUND_ANSWER;
-        }
+    // Relevance gate, applied even when a category matched: the
+    // answer must share the question's subject words, or be very
+    // close in meaning. A "faculty" question about a department
+    // that is not in the knowledge base must get the honest
+    // fallback, not whichever faculty fact happens to score best.
+    if (
+        informativeMatchScore(question, best) < 0.5 &&
+        best.semantic_score < 0.68
+    ) {
+        return NOT_FOUND_ANSWER;
     }
 
     // Very weak match overall
