@@ -37,7 +37,7 @@ function makeResponse() {
         },
 
         json(payload) {
-            console.log(`\n[HTTP ${this.statusCode}]`);
+            console.log(`\n[HTTP ${this.statusCode}]${payload.engine ? " engine=" + payload.engine : ""}`);
             console.log("Q:", this.question ?? "");
             console.log("-".repeat(60));
             console.log("Answer:", payload.answer);
