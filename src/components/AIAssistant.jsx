@@ -1,8 +1,8 @@
 import { useState } from "react";
 
-// Same-origin endpoint: api/ask.js (retrieval only, no LLM)
-const API_URL = "";
-const API_BASE = API_URL ? API_URL.replace(/\/$/, "") : "";
+// Same-origin endpoint by default: api/ask.js (retrieval only, no LLM).
+// Set VITE_API_BASE to point the widget at a local dev server.
+const API_BASE = (import.meta.env?.VITE_API_BASE || "").replace(/\/$/, "");
 
 const GREETING =
     "👋 Hello! I'm <b>ADCET AI Assistant</b>.\n\nI can help you with admissions, courses, faculty, placements, hostel, scholarships and contact details.\n\nHow can I help you today?";
