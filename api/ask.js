@@ -811,9 +811,14 @@ IMPORTANT RULES:
 5. When the question covers several facts (for example a whole
    department, its faculty, courses or facilities), combine the
    relevant facts from the context into one complete answer.
-6. Keep the tone helpful and simple, like a college information desk.
-7. Do not mention "chunks", "embeddings", "retrieval" or RAG.
-8. Answer only about ADCET from the context. If the question is not
+6. Every fact is labelled with its [SECTION]. Attribute each
+   fact only to its own section: a course, faculty member or
+   number listed under one department must never be presented
+   as belonging to another department, even when the two are
+   similar or related. Leave unrelated sections out entirely.
+7. Keep the tone helpful and simple, like a college information desk.
+8. Do not mention "chunks", "embeddings", "retrieval" or RAG.
+9. Answer only about ADCET from the context. If the question is not
    about ADCET, say rule 3's sentence.
 
 CONTEXT:
