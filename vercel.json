@@ -1,15 +1,5 @@
 {
-    "functions": {
-        "api/ask.js": {
-            "includeFiles": "models/**",
-            "maxDuration": 60
-        }
-    },
     "rewrites": [
-        {
-            "source": "/api/:path*",
-            "destination": "/api/:path*"
-        },
         {
             "source": "/(.*)",
             "destination": "/index.html"

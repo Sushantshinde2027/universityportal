@@ -7,18 +7,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "oxlint",
-    "preview": "vite preview",
-    "scrape": "node scripts/scrape_website.mjs",
-    "clean": "node scripts/clean_data.mjs",
-    "chunk": "node scripts/chunk_data.mjs",
-    "model": "node scripts/download_model.mjs",
-    "embed": "node scripts/create_embeddings.mjs",
-    "ingest": "npm run clean && npm run chunk && npm run embed",
-    "test:bot": "node scripts/test_ask.mjs",
-    "debug:bot": "node scripts/debug_scores.mjs"
+    "preview": "vite preview"
   },
   "dependencies": {
-    "@huggingface/transformers": "^4.3.1",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
     "react-icons": "^5.7.0",
