@@ -1,182 +1,1024 @@
 [
     {
         "chunk_id": "chunk_001",
-        "title": "ANNASHEB DANGE COLLEGE OF ENGINEERING AND TECHNOLOGY",
-        "content": "",
+        "section_id": "section_02",
+        "title": "COLLEGE OVERVIEW",
+        "content": "Annasaheb Dange College of Engineering and Technology (ADCET), Ashta is a college of engineering and technology located at Ashta, Dist. Sangli, Maharashtra - 416301.",
         "source": "ADCET College Website"
     },
     {
         "chunk_id": "chunk_002",
+        "section_id": "section_02",
         "title": "COLLEGE OVERVIEW",
-        "content": "Annasaheb Dange College of Engineering and Technology (ADCET), Ashta is a college of engineering and technology located at Ashta, Dist. Sangli, Maharashtra - 416301.\nADCET is run by Sant Dnyaneshwar Shikshan Sanstha.\nADCET was established in the year 1999.\nADCET is an Empowered Autonomous Institute affiliated to Shivaji University, Kolhapur, Maharashtra.\nADCET is approved by the All India Council for Technical Education (AICTE), New Delhi.\nADCET is one of the prominent institutions of higher technical education in Western Maharashtra.\nThe institute is committed to producing professionally competent engineers who can contribute meaningfully to society and nation building.\nThe ADCET campus is spread across more than 25 acres in Ashta, Sangli.\nThe college has more than 3000 students.\nThe DTE code of the college is 06283.",
+        "content": "ADCET is run by Sant Dnyaneshwar Shikshan Sanstha.",
         "source": "ADCET College Website"
     },
     {
         "chunk_id": "chunk_003",
-        "title": "ACCREDITATION AND APPROVALS",
-        "content": "ADCET is accredited by NAAC with A++ Grade.\nADCET programs are accredited by the National Board of Accreditation (NBA), New Delhi.\nADCET is approved by AICTE, New Delhi.\nADCET is ISO 9001:2015 certified.\nADCET is an Empowered Autonomous Institute.\nADCET is affiliated to Shivaji University, Kolhapur.\nADCET is accredited by TCS, Mumbai.\nFinal year results of the college are above 95 percent.",
+        "section_id": "section_02",
+        "title": "COLLEGE OVERVIEW",
+        "content": "ADCET was established in the year 1999.",
         "source": "ADCET College Website"
     },
     {
         "chunk_id": "chunk_004",
+        "section_id": "section_02",
+        "title": "COLLEGE OVERVIEW",
+        "content": "ADCET is an Empowered Autonomous Institute affiliated to Shivaji University, Kolhapur, Maharashtra.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_005",
+        "section_id": "section_02",
+        "title": "COLLEGE OVERVIEW",
+        "content": "ADCET is approved by the All India Council for Technical Education (AICTE), New Delhi.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_006",
+        "section_id": "section_02",
+        "title": "COLLEGE OVERVIEW",
+        "content": "ADCET is one of the prominent institutions of higher technical education in Western Maharashtra.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_007",
+        "section_id": "section_02",
+        "title": "COLLEGE OVERVIEW",
+        "content": "The institute is committed to producing professionally competent engineers who can contribute meaningfully to society and nation building.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_008",
+        "section_id": "section_02",
+        "title": "COLLEGE OVERVIEW",
+        "content": "The ADCET campus is spread across more than 25 acres in Ashta, Sangli.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_009",
+        "section_id": "section_02",
+        "title": "COLLEGE OVERVIEW",
+        "content": "The college has more than 3000 students.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_010",
+        "section_id": "section_02",
+        "title": "COLLEGE OVERVIEW",
+        "content": "The DTE code of the college is 06283.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_011",
+        "section_id": "section_03",
+        "title": "ACCREDITATION AND APPROVALS",
+        "content": "ADCET is accredited by NAAC with A++ Grade.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_012",
+        "section_id": "section_03",
+        "title": "ACCREDITATION AND APPROVALS",
+        "content": "ADCET programs are accredited by the National Board of Accreditation (NBA), New Delhi.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_013",
+        "section_id": "section_03",
+        "title": "ACCREDITATION AND APPROVALS",
+        "content": "ADCET is approved by AICTE, New Delhi.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_014",
+        "section_id": "section_03",
+        "title": "ACCREDITATION AND APPROVALS",
+        "content": "ADCET is ISO 9001:2015 certified.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_015",
+        "section_id": "section_03",
+        "title": "ACCREDITATION AND APPROVALS",
+        "content": "ADCET is an Empowered Autonomous Institute.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_016",
+        "section_id": "section_03",
+        "title": "ACCREDITATION AND APPROVALS",
+        "content": "ADCET is affiliated to Shivaji University, Kolhapur.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_017",
+        "section_id": "section_03",
+        "title": "ACCREDITATION AND APPROVALS",
+        "content": "ADCET is accredited by TCS, Mumbai.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_018",
+        "section_id": "section_03",
+        "title": "ACCREDITATION AND APPROVALS",
+        "content": "Final year results of the college are above 95 percent.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_019",
+        "section_id": "section_04",
         "title": "VISION",
         "content": "To be a Leader in producing professionally competent engineers.",
         "source": "ADCET College Website"
     },
     {
-        "chunk_id": "chunk_005",
-        "title": "MISSION",
-        "content": "The college is committed to achieve its vision by the following mission statements.\nM1. Imparting effective outcome based education.\nM2. Preparing students through skill-oriented courses to excel in their profession with ethical values.\nM3. Promoting research to benefit society.\nM4. Strengthening relationships with all stakeholders.",
-        "source": "ADCET College Website"
-    },
-    {
-        "chunk_id": "chunk_006",
-        "title": "QUALITY POLICY",
-        "content": "The college intends to continually enhance the performance of the institute through structured, coordinated and responsible academic and administrative practices.\nThe college functions in a structured, organized and coordinated manner.\nThe college is conscious about responsibilities and authorities at formal and informal levels.\nThe college takes every possible initiative in the role assigned.",
-        "source": "ADCET College Website"
-    },
-    {
-        "chunk_id": "chunk_007",
-        "title": "CORE VALUES",
-        "content": "The 4 C's of the college are Competence, Confidence, Commitment and Compassion.\nCompetence means developing strong technical knowledge, practical skills and professional capabilities.\nConfidence means building self-belief, communication skills and the confidence to face professional challenges.\nCommitment means encouraging dedication towards learning, professional responsibilities and continuous improvement.\nCompassion means developing socially responsible professionals who contribute positively to society.",
-        "source": "ADCET College Website"
-    },
-    {
-        "chunk_id": "chunk_008",
-        "title": "BTECH PROGRAMS",
-        "content": "The college offers the Bachelor of Technology (B.Tech) undergraduate engineering program.\nMechanical Engineering: Intake 120 seats, started in 1999.\nComputer Science and Engineering: Intake 180 seats, started in 2001.\nElectrical Engineering: Intake 120 seats, started in 2004.\nCivil Engineering: Intake 120 seats, started in 2010.\nAeronautical Engineering: Intake 60 seats, started in 2013.\nFood Technology: Intake 30 seats, started in 2019.\nArtificial Intelligence and Data Science: Intake 120 seats, started in 2021.\nComputer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology): Intake 60 seats, started in 2021.\nRobotics and Artificial Intelligence: Intake 60 seats, started in 2025.\nElectronics and Telecommunication Engineering: Intake 60 seats, started in 2026.\nAdmission to B.Tech is through the applicable state admission process for the academic year 2026-27.",
-        "source": "ADCET College Website"
-    },
-    {
-        "chunk_id": "chunk_009",
-        "title": "OTHER UNDERGRADUATE PROGRAMS",
-        "content": "The college offers other undergraduate programs in management and computer applications.\nBachelor of Business Administration (BBA): Intake 200 seats, started in 2024.\nBachelor of Computer Application (BCA): Intake 60 seats, started in 2024.",
-        "source": "ADCET College Website"
-    },
-    {
-        "chunk_id": "chunk_010",
-        "title": "MTECH PROGRAMS",
-        "content": "The college offers Master of Technology (M.Tech) postgraduate engineering programs.\nMechanical Engineering Design: Intake 12 seats, started in 2025.\nComputer Science and Engineering: Intake 12 seats, started in 2025.\nElectrical Power System: Intake 12 seats, started in 2025.\nCivil Engineering (Computer Aided Structural Engineering): Intake 12 seats, started in 2025.",
-        "source": "ADCET College Website"
-    },
-    {
-        "chunk_id": "chunk_011",
-        "title": "ADMISSION INFORMATION",
-        "content": "Admissions are open for the academic year 2026-27.\nThe college offers admission to various undergraduate and postgraduate engineering programs.\nStudents seeking admission are advised to check the eligibility criteria, admission schedule, required documents and application procedure before applying.\nAdmissions are available for various B.Tech engineering programs through the applicable admission process.\nAdmission to the various programs is subject to the eligibility criteria and admission procedure prescribed by the concerned authorities.\nStudents are advised to refer to the official admission information for the latest details.\nFor admission related queries students may contact the college on phone number +91-8600600700 or by email at director@adcet.in.",
-        "source": "ADCET College Website"
-    },
-    {
-        "chunk_id": "chunk_012",
-        "title": "ADMISSION ELIGIBILITY",
-        "content": "Candidates must satisfy the prescribed academic and entrance examination requirements for the selected program.\nFor B.Tech admission candidates must have passed the required higher secondary or equivalent examination with the prescribed subjects and marks.\nB.Tech admission is through the CAP admission process of the State Common Entrance Test Cell, Maharashtra.\nCandidates seeking admission to M.Tech programs must hold a relevant Bachelor's degree in engineering or technology.",
-        "source": "ADCET College Website"
-    },
-    {
-        "chunk_id": "chunk_013",
-        "title": "REQUIRED DOCUMENTS",
-        "content": "Students should keep their academic certificates, identity documents, photographs and other required admission documents ready.\nStudents should keep the School Leaving Certificate, mark sheets, caste certificate and income certificate where applicable for the admission process.",
-        "source": "ADCET College Website"
-    },
-    {
-        "chunk_id": "chunk_014",
-        "title": "SCHOLARSHIPS AND LOANS",
-        "content": "Scholarship support is available for deserving students in their educational journey.\nAICTE Scholarship and Fellowship Schemes are available for eligible students.\nStudents are advised to apply for the AICTE Scholarship and Fellowship Schemes through the official portal.\nScholarships for students are also available through the MahaDBT portal and the National Scholarship Portal.\nThe college provides 100 percent support for availing educational loans through nationalized banks.\nThe college offers robust student scholarship support while protecting against excessive student debt.",
-        "source": "ADCET College Website"
-    },
-    {
-        "chunk_id": "chunk_015",
-        "title": "PLACEMENTS",
-        "content": "The college has a dedicated placement cell that supports students through training, industry interaction, recruitment drives and career development activities.\nA total of 2281 students have been placed through the placement activities of the college.\nThe highest package offered to students is 40 LPA.\nThe average package offered to students is 4 LPA.\nMore than 180 recruiting companies visit the college for recruitment.\nStrong industry relationships and career-focused training help students prepare for professional life.\nStudents receive support through training, industry interaction, recruitment drives and career development activities.",
-        "source": "ADCET College Website"
-    },
-    {
-        "chunk_id": "chunk_016",
-        "title": "CAMPUS FACILITIES",
-        "content": "The college campus provides modern academic facilities, laboratories, playgrounds, hostel facilities and internet connectivity.\nThe college has modern state-of-the-art laboratories supporting practical learning, experimentation and research.\nThe college has well-equipped learning resources and library facilities designed to support academic excellence and student development.\nThe college provides comfortable hostel facilities and student support services for campus residents.\nThe college runs a bus service connecting students with nearby cities and surrounding areas.\nThe college has a large playground and facilities encouraging sports, fitness and extracurricular activities.\nThe college has high-speed internet connectivity with a 500 Mbps leased line supporting digital learning.\nThe college has an on campus ATM banking facility.\nThe classrooms of the college are modern and equipped with CCTV cameras.\nThe campus is described as a large, beautiful and healthy campus.",
-        "source": "ADCET College Website"
-    },
-    {
-        "chunk_id": "chunk_017",
-        "title": "HOSTEL AND TRANSPORT",
-        "content": "Hostel facilities are available for students on the college campus.\nThe college provides excellent hostel facilities for students.\nCollege bus service is available for students from nearby cities and surrounding areas including Islampur, Kolhapur and Sangli.\nThe college has excellent connectivity from Islampur, Kolhapur and Sangli.",
-        "source": "ADCET College Website"
-    },
-    {
-        "chunk_id": "chunk_018",
-        "title": "RESEARCH AND INNOVATION",
-        "content": "Students are encouraged to participate in original research, experimentation, micro projects, mini projects and major projects.\nAcademic collaborations with IITs, NITs and research organizations provide additional opportunities for learning and innovation.\nThe college encourages students to explore emerging technologies and research problems.\nStudents participate in micro, mini and mega projects, internships, technical activities, community engagement and research initiatives.",
-        "source": "ADCET College Website"
-    },
-    {
-        "chunk_id": "chunk_019",
-        "title": "INDUSTRY INTERACTION",
-        "content": "Strong relationships with engineering and allied industries provide students with opportunities for internships, industrial exposure, professional training and placement preparation.\nActive ties with engineering and allied industries extend employment opportunities available to students.\nThe college emphasizes outcome based education and project based learning for real world engineering challenges.",
-        "source": "ADCET College Website"
-    },
-    {
         "chunk_id": "chunk_020",
-        "title": "FACULTY OF COMPUTER SCIENCE AND ENGINEERING",
-        "content": "The Computer Science and Engineering department has 2 faculty members.\nDr. Suhel S. Sayyad is Professor and Head of the Department. Qualification: B.E. (Computer Science), M.Tech. (Computer Science), Ph.D. Area of expertise: Information Security, High Performance Computing. Experience: 16.5 Years.\nDr. Arifa J. Shikalgar is Associate Professor. Qualification: Ph.D. (CSE). Area of expertise: Machine Learning, Computer Vision. Experience: 17 Years.",
+        "section_id": "section_05",
+        "title": "MISSION",
+        "content": "The college is committed to achieve its vision by the following mission statements.",
         "source": "ADCET College Website"
     },
     {
         "chunk_id": "chunk_021",
-        "title": "FACULTY OF ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
-        "content": "The Artificial Intelligence and Data Science department has 5 faculty members.\nDr. Asma A. Shaikh is Professor and Head of the Department. Qualification: Post Doc (CSE), Ph.D. (CSE), MCA, M.E. (Computer Engineering), AMIE. Area of expertise: Artificial Intelligence, Data Science, Image Processing. Experience: 18 Years.\nDr. Krishna Kumar L. is Professor. Qualification: Ph.D. (Artificial Intelligence and IOT). Area of expertise: Data Science and Data Warehousing. Experience: 16 Years.\nMiss Sonali Satish Malame is Assistant Professor. Qualification: M.Tech (CSE). Area of expertise: Web Development, Machine Learning, Artificial Intelligence. Experience: 7.9 Years.\nMrs. Prajakta Satyavijay Dabade is Assistant Professor. Qualification: M.Tech (CSE). Area of expertise: Machine Learning, Artificial Intelligence. Experience: 4 Years.\nMiss Gayatri Suresh Sutar is Assistant Professor. Qualification: M.Tech (CSE). Area of expertise: DBMS, C, Java, Computer Networks, IOT. Experience: 10 Years.",
+        "section_id": "section_05",
+        "title": "MISSION",
+        "content": "M1. Imparting effective outcome based education.",
         "source": "ADCET College Website"
     },
     {
         "chunk_id": "chunk_022",
-        "title": "FACULTY OF ROBOTICS AND ARTIFICIAL INTELLIGENCE",
-        "content": "The Robotics and Artificial Intelligence department has 5 faculty members.\nDr. Sunita Sunil Shinde is Professor and Head of the Department. Qualification: B.E., M.E., Ph.D. Area of expertise: Wireless Communication and IOT. Experience: 25 Years.\nProf. Makarand Madhav Kolekar is Assistant Professor. Qualification: M.Tech. Area of expertise: Manufacturing Engineering, AI and Data Science. Experience: 13 Years.\nMr. Yogesh V. Koli is Assistant Professor. Qualification: M.E. (Electronics). Area of expertise: Industrial Robotics and Automation, Embedded System. Experience: 12 Years.\nMrs. Shital D. Kolekar is Assistant Professor. Qualification: M.E. (CSE), Ph.D. (Pursuing). Area of expertise: Cloud Computing, IOT. Experience: 7.5 Years.\nMrs. Rutuja Suraj Pawar is Assistant Professor. Qualification: B.E. (Electrical), M.Tech (Electrical Power System). Area of expertise: Electric Power System. Experience: 6 Years.",
+        "section_id": "section_05",
+        "title": "MISSION",
+        "content": "M2. Preparing students through skill-oriented courses to excel in their profession with ethical values.",
         "source": "ADCET College Website"
     },
     {
         "chunk_id": "chunk_023",
-        "title": "FACULTY OF BASIC SCIENCE",
-        "content": "The Basic Science department has 2 faculty members.\nDr. Santosh Shivaji Desai is Associate Professor and Head. Qualification: M.Sc. (Mathematics), Ph.D. Area of expertise: Mathematics, Fuzzy Choice Theory. Experience: 16 Years.\nMrs. Vijayalaxmi Maruti Vairat is Assistant Professor. Qualification: M.Sc., M.Phil. Area of expertise: Chemistry. Experience: 28 Years.",
+        "section_id": "section_05",
+        "title": "MISSION",
+        "content": "M3. Promoting research to benefit society.",
         "source": "ADCET College Website"
     },
     {
         "chunk_id": "chunk_024",
-        "title": "FACULTY OF AERONAUTICAL ENGINEERING",
-        "content": "The Aeronautical Engineering department has 4 faculty members.\nMr. Basithrahman A is Assistant Professor. Qualification: M.E. (Aeronautical Engineering). Area of expertise: Composite Materials and Structures, Aircraft Structures, Finite Element Methods. Experience: 7 Years.\nMr. Karthik Pullela is Assistant Professor. Qualification: M.Tech. Area of expertise: Aerospace Propulsion, Computational Fluid Dynamics, Aircraft Design. Experience: 1 Year.\nProf. Mohammed Hashim Y is Assistant Professor. Qualification: M.E. Area of expertise: UAV and Flight Dynamics. Experience: 11 Years.\nProf. Arun Nema is Assistant Professor. Qualification: M.Tech. Area of expertise: Aerodynamics, Computational Fluid Dynamics, Fluid Mechanics. Experience: 14 Years.",
+        "section_id": "section_05",
+        "title": "MISSION",
+        "content": "M4. Strengthening relationships with all stakeholders.",
         "source": "ADCET College Website"
     },
     {
         "chunk_id": "chunk_025",
-        "title": "LATEST NOTICES",
-        "content": "Admissions Open for Academic Year 2026-27 dated 15 August 2026. The college invites applications for B.Tech and M.Tech programs and interested candidates may apply through the admission portal.\nADCET Hackathon 2026 Season 3 dated 10 August 2026. The hackathon is on Sustainable Development Goals (SDGs) - Vikasit Bharat 2047 and registration is open for all eligible students.\nAICTE Scholarship and Fellowship Schemes dated 02 August 2026. Students are advised to apply for the AICTE Scholarship and Fellowship Schemes through the official portal.\nExam Schedule for Odd Semester 2026-27 dated 25 July 2026. The examination schedule for the odd semester has been published and students should check the notice board.\nADCET Alumni Database Update Form dated 18 July 2026. All alumni are requested to update their details using the official alumni database update form.\nFor the latest circulars, admission information, examination schedules and academic updates, please keep visiting the Notices section of the website.",
+        "section_id": "section_06",
+        "title": "QUALITY POLICY",
+        "content": "The college intends to continually enhance the performance of the institute through structured, coordinated and responsible academic and administrative practices.",
         "source": "ADCET College Website"
     },
     {
         "chunk_id": "chunk_026",
-        "title": "LEADERSHIP",
-        "content": "Shri. Annasaheb Dange is the Founder of the college.\nAdv. Rajendra R. Dange is the Secretary of the college.\nShri. Vishwanath R. Dange is the Joint Secretary of the college.\nDr. Laxman Y Waghmode is the Director of the college.\nThe vision and guidance of the founder, secretary, joint secretary and director shape the college into a centre of excellence.",
+        "section_id": "section_06",
+        "title": "QUALITY POLICY",
+        "content": "The college functions in a structured, organized and coordinated manner.",
         "source": "ADCET College Website"
     },
     {
         "chunk_id": "chunk_027",
-        "title": "FAQ",
-        "content": "What is ADCET? Annasaheb Dange College of Engineering and Technology, Ashta is an Empowered Autonomous Institute established in 1999, affiliated to Shivaji University, Kolhapur and approved by AICTE.\nWhere is ADCET located? ADCET is located at Ashta, Dist. Sangli, Maharashtra - 416301.\nWhat courses are offered at ADCET? ADCET offers B.Tech, M.Tech, BBA and BCA programs in various branches of engineering, technology, computer applications and management.\nHow can I apply for admission? Admissions are open for the academic year 2026-27 and students may apply through the applicable admission process after checking the eligibility criteria.\nIs ADCET an autonomous institute? Yes, ADCET is an Empowered Autonomous Institute.\nIs ADCET approved by AICTE? Yes, ADCET is approved by AICTE, New Delhi.\nIs ADCET accredited by NAAC? Yes, ADCET is accredited by NAAC with A++ Grade and its programs are NBA accredited.\nAre hostel facilities available? Yes, excellent hostel facilities are available for students on the college campus.\nDoes ADCET provide placement assistance? Yes, the college has a dedicated placement cell and more than 180 recruiting companies visit the campus.\nHow can I contact ADCET? You can contact ADCET on phone +91-8600600700 or by email at director@adcet.in.\nWhere can I find the latest college notices? The latest college notices are published in the Notices section of the website.\nWhere can I find information about faculty members? Faculty information is available in the Faculty section of the website.",
+        "section_id": "section_06",
+        "title": "QUALITY POLICY",
+        "content": "The college is conscious about responsibilities and authorities at formal and informal levels.",
         "source": "ADCET College Website"
     },
     {
         "chunk_id": "chunk_028",
-        "title": "CONTACT INFORMATION",
-        "content": "The phone number of the college is +91-8600600700.\nThe email address of the college is director@adcet.in.\nThe official website of the college is www.adcet.ac.in.\nThe DTE code of the college is 06283.",
+        "section_id": "section_06",
+        "title": "QUALITY POLICY",
+        "content": "The college takes every possible initiative in the role assigned.",
         "source": "ADCET College Website"
     },
     {
         "chunk_id": "chunk_029",
-        "title": "ADDRESS",
-        "content": "Annasaheb Dange College of Engineering and Technology (ADCET),\nAshta, Dist. Sangli,\nMaharashtra - 416 301.\nThe college is located at Ashta in the Sangli district of Maharashtra.\nThe campus has excellent connectivity from Islampur, Kolhapur and Sangli.",
+        "section_id": "section_07",
+        "title": "CORE VALUES",
+        "content": "The 4 C's of the college are Competence, Confidence, Commitment and Compassion.",
         "source": "ADCET College Website"
     },
     {
         "chunk_id": "chunk_030",
+        "section_id": "section_07",
+        "title": "CORE VALUES",
+        "content": "Competence means developing strong technical knowledge, practical skills and professional capabilities.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_031",
+        "section_id": "section_07",
+        "title": "CORE VALUES",
+        "content": "Confidence means building self-belief, communication skills and the confidence to face professional challenges.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_032",
+        "section_id": "section_07",
+        "title": "CORE VALUES",
+        "content": "Commitment means encouraging dedication towards learning, professional responsibilities and continuous improvement.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_033",
+        "section_id": "section_07",
+        "title": "CORE VALUES",
+        "content": "Compassion means developing socially responsible professionals who contribute positively to society.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_034",
+        "section_id": "section_08",
+        "title": "BTECH PROGRAMS",
+        "content": "The college offers the Bachelor of Technology (B.Tech) undergraduate engineering program.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_035",
+        "section_id": "section_08",
+        "title": "BTECH PROGRAMS",
+        "content": "Mechanical Engineering: Intake 120 seats, started in 1999.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_036",
+        "section_id": "section_08",
+        "title": "BTECH PROGRAMS",
+        "content": "Computer Science and Engineering: Intake 180 seats, started in 2001.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_037",
+        "section_id": "section_08",
+        "title": "BTECH PROGRAMS",
+        "content": "Electrical Engineering: Intake 120 seats, started in 2004.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_038",
+        "section_id": "section_08",
+        "title": "BTECH PROGRAMS",
+        "content": "Civil Engineering: Intake 120 seats, started in 2010.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_039",
+        "section_id": "section_08",
+        "title": "BTECH PROGRAMS",
+        "content": "Aeronautical Engineering: Intake 60 seats, started in 2013.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_040",
+        "section_id": "section_08",
+        "title": "BTECH PROGRAMS",
+        "content": "Food Technology: Intake 30 seats, started in 2019.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_041",
+        "section_id": "section_08",
+        "title": "BTECH PROGRAMS",
+        "content": "Artificial Intelligence and Data Science: Intake 120 seats, started in 2021.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_042",
+        "section_id": "section_08",
+        "title": "BTECH PROGRAMS",
+        "content": "Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology): Intake 60 seats, started in 2021.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_043",
+        "section_id": "section_08",
+        "title": "BTECH PROGRAMS",
+        "content": "Robotics and Artificial Intelligence: Intake 60 seats, started in 2025.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_044",
+        "section_id": "section_08",
+        "title": "BTECH PROGRAMS",
+        "content": "Electronics and Telecommunication Engineering: Intake 60 seats, started in 2026.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_045",
+        "section_id": "section_08",
+        "title": "BTECH PROGRAMS",
+        "content": "Admission to B.Tech is through the applicable state admission process for the academic year 2026-27.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_046",
+        "section_id": "section_09",
+        "title": "OTHER UNDERGRADUATE PROGRAMS",
+        "content": "The college offers other undergraduate programs in management and computer applications.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_047",
+        "section_id": "section_09",
+        "title": "OTHER UNDERGRADUATE PROGRAMS",
+        "content": "Bachelor of Business Administration (BBA): Intake 200 seats, started in 2024.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_048",
+        "section_id": "section_09",
+        "title": "OTHER UNDERGRADUATE PROGRAMS",
+        "content": "Bachelor of Computer Application (BCA): Intake 60 seats, started in 2024.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_049",
+        "section_id": "section_10",
+        "title": "MTECH PROGRAMS",
+        "content": "The college offers Master of Technology (M.Tech) postgraduate engineering programs.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_050",
+        "section_id": "section_10",
+        "title": "MTECH PROGRAMS",
+        "content": "Mechanical Engineering Design: Intake 12 seats, started in 2025.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_051",
+        "section_id": "section_10",
+        "title": "MTECH PROGRAMS",
+        "content": "Computer Science and Engineering: Intake 12 seats, started in 2025.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_052",
+        "section_id": "section_10",
+        "title": "MTECH PROGRAMS",
+        "content": "Electrical Power System: Intake 12 seats, started in 2025.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_053",
+        "section_id": "section_10",
+        "title": "MTECH PROGRAMS",
+        "content": "Civil Engineering (Computer Aided Structural Engineering): Intake 12 seats, started in 2025.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_054",
+        "section_id": "section_11",
+        "title": "ADMISSION INFORMATION",
+        "content": "Admissions are open for the academic year 2026-27.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_055",
+        "section_id": "section_11",
+        "title": "ADMISSION INFORMATION",
+        "content": "The college offers admission to various undergraduate and postgraduate engineering programs.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_056",
+        "section_id": "section_11",
+        "title": "ADMISSION INFORMATION",
+        "content": "Students seeking admission are advised to check the eligibility criteria, admission schedule, required documents and application procedure before applying.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_057",
+        "section_id": "section_11",
+        "title": "ADMISSION INFORMATION",
+        "content": "Admissions are available for various B.Tech engineering programs through the applicable admission process.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_058",
+        "section_id": "section_11",
+        "title": "ADMISSION INFORMATION",
+        "content": "Admission to the various programs is subject to the eligibility criteria and admission procedure prescribed by the concerned authorities.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_059",
+        "section_id": "section_11",
+        "title": "ADMISSION INFORMATION",
+        "content": "Students are advised to refer to the official admission information for the latest details.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_060",
+        "section_id": "section_11",
+        "title": "ADMISSION INFORMATION",
+        "content": "For admission related queries students may contact the college on phone number +91-8600600700 or by email at director@adcet.in.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_061",
+        "section_id": "section_12",
+        "title": "ADMISSION ELIGIBILITY",
+        "content": "Candidates must satisfy the prescribed academic and entrance examination requirements for the selected program.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_062",
+        "section_id": "section_12",
+        "title": "ADMISSION ELIGIBILITY",
+        "content": "For B.Tech admission candidates must have passed the required higher secondary or equivalent examination with the prescribed subjects and marks.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_063",
+        "section_id": "section_12",
+        "title": "ADMISSION ELIGIBILITY",
+        "content": "B.Tech admission is through the CAP admission process of the State Common Entrance Test Cell, Maharashtra.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_064",
+        "section_id": "section_12",
+        "title": "ADMISSION ELIGIBILITY",
+        "content": "Candidates seeking admission to M.Tech programs must hold a relevant Bachelor's degree in engineering or technology.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_065",
+        "section_id": "section_13",
+        "title": "REQUIRED DOCUMENTS",
+        "content": "Students should keep their academic certificates, identity documents, photographs and other required admission documents ready.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_066",
+        "section_id": "section_13",
+        "title": "REQUIRED DOCUMENTS",
+        "content": "Students should keep the School Leaving Certificate, mark sheets, caste certificate and income certificate where applicable for the admission process.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_067",
+        "section_id": "section_14",
+        "title": "SCHOLARSHIPS AND LOANS",
+        "content": "Scholarship support is available for deserving students in their educational journey.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_068",
+        "section_id": "section_14",
+        "title": "SCHOLARSHIPS AND LOANS",
+        "content": "AICTE Scholarship and Fellowship Schemes are available for eligible students.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_069",
+        "section_id": "section_14",
+        "title": "SCHOLARSHIPS AND LOANS",
+        "content": "Students are advised to apply for the AICTE Scholarship and Fellowship Schemes through the official portal.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_070",
+        "section_id": "section_14",
+        "title": "SCHOLARSHIPS AND LOANS",
+        "content": "Scholarships for students are also available through the MahaDBT portal and the National Scholarship Portal.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_071",
+        "section_id": "section_14",
+        "title": "SCHOLARSHIPS AND LOANS",
+        "content": "The college provides 100 percent support for availing educational loans through nationalized banks.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_072",
+        "section_id": "section_14",
+        "title": "SCHOLARSHIPS AND LOANS",
+        "content": "The college offers robust student scholarship support while protecting against excessive student debt.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_073",
+        "section_id": "section_15",
+        "title": "PLACEMENTS",
+        "content": "The college has a dedicated placement cell that supports students through training, industry interaction, recruitment drives and career development activities.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_074",
+        "section_id": "section_15",
+        "title": "PLACEMENTS",
+        "content": "A total of 2281 students have been placed through the placement activities of the college.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_075",
+        "section_id": "section_15",
+        "title": "PLACEMENTS",
+        "content": "The highest package offered to students is 40 LPA.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_076",
+        "section_id": "section_15",
+        "title": "PLACEMENTS",
+        "content": "The average package offered to students is 4 LPA.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_077",
+        "section_id": "section_15",
+        "title": "PLACEMENTS",
+        "content": "More than 180 recruiting companies visit the college for recruitment.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_078",
+        "section_id": "section_15",
+        "title": "PLACEMENTS",
+        "content": "Strong industry relationships and career-focused training help students prepare for professional life.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_079",
+        "section_id": "section_15",
+        "title": "PLACEMENTS",
+        "content": "Students receive support through training, industry interaction, recruitment drives and career development activities.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_080",
+        "section_id": "section_16",
+        "title": "CAMPUS FACILITIES",
+        "content": "The college campus provides modern academic facilities, laboratories, playgrounds, hostel facilities and internet connectivity.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_081",
+        "section_id": "section_16",
+        "title": "CAMPUS FACILITIES",
+        "content": "The college has modern state-of-the-art laboratories supporting practical learning, experimentation and research.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_082",
+        "section_id": "section_16",
+        "title": "CAMPUS FACILITIES",
+        "content": "The college has well-equipped learning resources and library facilities designed to support academic excellence and student development.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_083",
+        "section_id": "section_16",
+        "title": "CAMPUS FACILITIES",
+        "content": "The college provides comfortable hostel facilities and student support services for campus residents.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_084",
+        "section_id": "section_16",
+        "title": "CAMPUS FACILITIES",
+        "content": "The college runs a bus service connecting students with nearby cities and surrounding areas.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_085",
+        "section_id": "section_16",
+        "title": "CAMPUS FACILITIES",
+        "content": "The college has a large playground and facilities encouraging sports, fitness and extracurricular activities.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_086",
+        "section_id": "section_16",
+        "title": "CAMPUS FACILITIES",
+        "content": "The college has high-speed internet connectivity with a 500 Mbps leased line supporting digital learning.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_087",
+        "section_id": "section_16",
+        "title": "CAMPUS FACILITIES",
+        "content": "The college has an on campus ATM banking facility.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_088",
+        "section_id": "section_16",
+        "title": "CAMPUS FACILITIES",
+        "content": "The classrooms of the college are modern and equipped with CCTV cameras.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_089",
+        "section_id": "section_16",
+        "title": "CAMPUS FACILITIES",
+        "content": "The campus is described as a large, beautiful and healthy campus.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_090",
+        "section_id": "section_17",
+        "title": "HOSTEL AND TRANSPORT",
+        "content": "Hostel facilities are available for students on the college campus.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_091",
+        "section_id": "section_17",
+        "title": "HOSTEL AND TRANSPORT",
+        "content": "The college provides excellent hostel facilities for students.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_092",
+        "section_id": "section_17",
+        "title": "HOSTEL AND TRANSPORT",
+        "content": "College bus service is available for students from nearby cities and surrounding areas including Islampur, Kolhapur and Sangli.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_093",
+        "section_id": "section_17",
+        "title": "HOSTEL AND TRANSPORT",
+        "content": "The college has excellent connectivity from Islampur, Kolhapur and Sangli.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_094",
+        "section_id": "section_18",
+        "title": "RESEARCH AND INNOVATION",
+        "content": "Students are encouraged to participate in original research, experimentation, micro projects, mini projects and major projects.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_095",
+        "section_id": "section_18",
+        "title": "RESEARCH AND INNOVATION",
+        "content": "Academic collaborations with IITs, NITs and research organizations provide additional opportunities for learning and innovation.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_096",
+        "section_id": "section_18",
+        "title": "RESEARCH AND INNOVATION",
+        "content": "The college encourages students to explore emerging technologies and research problems.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_097",
+        "section_id": "section_18",
+        "title": "RESEARCH AND INNOVATION",
+        "content": "Students participate in micro, mini and mega projects, internships, technical activities, community engagement and research initiatives.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_098",
+        "section_id": "section_19",
+        "title": "INDUSTRY INTERACTION",
+        "content": "Strong relationships with engineering and allied industries provide students with opportunities for internships, industrial exposure, professional training and placement preparation.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_099",
+        "section_id": "section_19",
+        "title": "INDUSTRY INTERACTION",
+        "content": "Active ties with engineering and allied industries extend employment opportunities available to students.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_100",
+        "section_id": "section_19",
+        "title": "INDUSTRY INTERACTION",
+        "content": "The college emphasizes outcome based education and project based learning for real world engineering challenges.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_101",
+        "section_id": "section_20",
+        "title": "FACULTY OF COMPUTER SCIENCE AND ENGINEERING",
+        "content": "The Computer Science and Engineering department has 2 faculty members.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_102",
+        "section_id": "section_20",
+        "title": "FACULTY OF COMPUTER SCIENCE AND ENGINEERING",
+        "content": "Dr. Suhel S. Sayyad is Professor and Head of the Department. Qualification: B.E. (Computer Science), M.Tech. (Computer Science), Ph.D. Area of expertise: Information Security, High Performance Computing. Experience: 16.5 Years.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_103",
+        "section_id": "section_20",
+        "title": "FACULTY OF COMPUTER SCIENCE AND ENGINEERING",
+        "content": "Dr. Arifa J. Shikalgar is Associate Professor. Qualification: Ph.D. (CSE). Area of expertise: Machine Learning, Computer Vision. Experience: 17 Years.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_104",
+        "section_id": "section_21",
+        "title": "FACULTY OF ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+        "content": "The Artificial Intelligence and Data Science department has 5 faculty members.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_105",
+        "section_id": "section_21",
+        "title": "FACULTY OF ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+        "content": "Dr. Asma A. Shaikh is Professor and Head of the Department. Qualification: Post Doc (CSE), Ph.D. (CSE), MCA, M.E. (Computer Engineering), AMIE. Area of expertise: Artificial Intelligence, Data Science, Image Processing. Experience: 18 Years.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_106",
+        "section_id": "section_21",
+        "title": "FACULTY OF ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+        "content": "Dr. Krishna Kumar L. is Professor. Qualification: Ph.D. (Artificial Intelligence and IOT). Area of expertise: Data Science and Data Warehousing. Experience: 16 Years.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_107",
+        "section_id": "section_21",
+        "title": "FACULTY OF ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+        "content": "Miss Sonali Satish Malame is Assistant Professor. Qualification: M.Tech (CSE). Area of expertise: Web Development, Machine Learning, Artificial Intelligence. Experience: 7.9 Years.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_108",
+        "section_id": "section_21",
+        "title": "FACULTY OF ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+        "content": "Mrs. Prajakta Satyavijay Dabade is Assistant Professor. Qualification: M.Tech (CSE). Area of expertise: Machine Learning, Artificial Intelligence. Experience: 4 Years.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_109",
+        "section_id": "section_21",
+        "title": "FACULTY OF ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+        "content": "Miss Gayatri Suresh Sutar is Assistant Professor. Qualification: M.Tech (CSE). Area of expertise: DBMS, C, Java, Computer Networks, IOT. Experience: 10 Years.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_110",
+        "section_id": "section_22",
+        "title": "FACULTY OF ROBOTICS AND ARTIFICIAL INTELLIGENCE",
+        "content": "The Robotics and Artificial Intelligence department has 5 faculty members.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_111",
+        "section_id": "section_22",
+        "title": "FACULTY OF ROBOTICS AND ARTIFICIAL INTELLIGENCE",
+        "content": "Dr. Sunita Sunil Shinde is Professor and Head of the Department. Qualification: B.E., M.E., Ph.D. Area of expertise: Wireless Communication and IOT. Experience: 25 Years.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_112",
+        "section_id": "section_22",
+        "title": "FACULTY OF ROBOTICS AND ARTIFICIAL INTELLIGENCE",
+        "content": "Prof. Makarand Madhav Kolekar is Assistant Professor. Qualification: M.Tech. Area of expertise: Manufacturing Engineering, AI and Data Science. Experience: 13 Years.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_113",
+        "section_id": "section_22",
+        "title": "FACULTY OF ROBOTICS AND ARTIFICIAL INTELLIGENCE",
+        "content": "Mr. Yogesh V. Koli is Assistant Professor. Qualification: M.E. (Electronics). Area of expertise: Industrial Robotics and Automation, Embedded System. Experience: 12 Years.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_114",
+        "section_id": "section_22",
+        "title": "FACULTY OF ROBOTICS AND ARTIFICIAL INTELLIGENCE",
+        "content": "Mrs. Shital D. Kolekar is Assistant Professor. Qualification: M.E. (CSE), Ph.D. (Pursuing). Area of expertise: Cloud Computing, IOT. Experience: 7.5 Years.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_115",
+        "section_id": "section_22",
+        "title": "FACULTY OF ROBOTICS AND ARTIFICIAL INTELLIGENCE",
+        "content": "Mrs. Rutuja Suraj Pawar is Assistant Professor. Qualification: B.E. (Electrical), M.Tech (Electrical Power System). Area of expertise: Electric Power System. Experience: 6 Years.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_116",
+        "section_id": "section_23",
+        "title": "FACULTY OF BASIC SCIENCE",
+        "content": "The Basic Science department has 2 faculty members.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_117",
+        "section_id": "section_23",
+        "title": "FACULTY OF BASIC SCIENCE",
+        "content": "Dr. Santosh Shivaji Desai is Associate Professor and Head. Qualification: M.Sc. (Mathematics), Ph.D. Area of expertise: Mathematics, Fuzzy Choice Theory. Experience: 16 Years.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_118",
+        "section_id": "section_23",
+        "title": "FACULTY OF BASIC SCIENCE",
+        "content": "Mrs. Vijayalaxmi Maruti Vairat is Assistant Professor. Qualification: M.Sc., M.Phil. Area of expertise: Chemistry. Experience: 28 Years.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_119",
+        "section_id": "section_24",
+        "title": "FACULTY OF AERONAUTICAL ENGINEERING",
+        "content": "The Aeronautical Engineering department has 4 faculty members.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_120",
+        "section_id": "section_24",
+        "title": "FACULTY OF AERONAUTICAL ENGINEERING",
+        "content": "Mr. Basithrahman A is Assistant Professor. Qualification: M.E. (Aeronautical Engineering). Area of expertise: Composite Materials and Structures, Aircraft Structures, Finite Element Methods. Experience: 7 Years.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_121",
+        "section_id": "section_24",
+        "title": "FACULTY OF AERONAUTICAL ENGINEERING",
+        "content": "Mr. Karthik Pullela is Assistant Professor. Qualification: M.Tech. Area of expertise: Aerospace Propulsion, Computational Fluid Dynamics, Aircraft Design. Experience: 1 Year.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_122",
+        "section_id": "section_24",
+        "title": "FACULTY OF AERONAUTICAL ENGINEERING",
+        "content": "Prof. Mohammed Hashim Y is Assistant Professor. Qualification: M.E. Area of expertise: UAV and Flight Dynamics. Experience: 11 Years.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_123",
+        "section_id": "section_24",
+        "title": "FACULTY OF AERONAUTICAL ENGINEERING",
+        "content": "Prof. Arun Nema is Assistant Professor. Qualification: M.Tech. Area of expertise: Aerodynamics, Computational Fluid Dynamics, Fluid Mechanics. Experience: 14 Years.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_124",
+        "section_id": "section_25",
+        "title": "LATEST NOTICES",
+        "content": "Admissions Open for Academic Year 2026-27 dated 15 August 2026. The college invites applications for B.Tech and M.Tech programs and interested candidates may apply through the admission portal.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_125",
+        "section_id": "section_25",
+        "title": "LATEST NOTICES",
+        "content": "ADCET Hackathon 2026 Season 3 dated 10 August 2026. The hackathon is on Sustainable Development Goals (SDGs) - Vikasit Bharat 2047 and registration is open for all eligible students.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_126",
+        "section_id": "section_25",
+        "title": "LATEST NOTICES",
+        "content": "AICTE Scholarship and Fellowship Schemes dated 02 August 2026. Students are advised to apply for the AICTE Scholarship and Fellowship Schemes through the official portal.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_127",
+        "section_id": "section_25",
+        "title": "LATEST NOTICES",
+        "content": "Exam Schedule for Odd Semester 2026-27 dated 25 July 2026. The examination schedule for the odd semester has been published and students should check the notice board.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_128",
+        "section_id": "section_25",
+        "title": "LATEST NOTICES",
+        "content": "ADCET Alumni Database Update Form dated 18 July 2026. All alumni are requested to update their details using the official alumni database update form.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_129",
+        "section_id": "section_25",
+        "title": "LATEST NOTICES",
+        "content": "For the latest circulars, admission information, examination schedules and academic updates, please keep visiting the Notices section of the website.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_130",
+        "section_id": "section_26",
+        "title": "LEADERSHIP",
+        "content": "Shri. Annasaheb Dange is the Founder of the college.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_131",
+        "section_id": "section_26",
+        "title": "LEADERSHIP",
+        "content": "Adv. Rajendra R. Dange is the Secretary of the college.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_132",
+        "section_id": "section_26",
+        "title": "LEADERSHIP",
+        "content": "Shri. Vishwanath R. Dange is the Joint Secretary of the college.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_133",
+        "section_id": "section_26",
+        "title": "LEADERSHIP",
+        "content": "Dr. Laxman Y Waghmode is the Director of the college.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_134",
+        "section_id": "section_26",
+        "title": "LEADERSHIP",
+        "content": "The vision and guidance of the founder, secretary, joint secretary and director shape the college into a centre of excellence.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_135",
+        "section_id": "section_27",
+        "title": "CONTACT INFORMATION",
+        "content": "The phone number of the college is +91-8600600700.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_136",
+        "section_id": "section_27",
+        "title": "CONTACT INFORMATION",
+        "content": "The email address of the college is director@adcet.in.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_137",
+        "section_id": "section_27",
+        "title": "CONTACT INFORMATION",
+        "content": "The official website of the college is www.adcet.ac.in.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_138",
+        "section_id": "section_27",
+        "title": "CONTACT INFORMATION",
+        "content": "The DTE code of the college is 06283.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_139",
+        "section_id": "section_28",
+        "title": "ADDRESS",
+        "content": "Annasaheb Dange College of Engineering and Technology (ADCET),",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_140",
+        "section_id": "section_28",
+        "title": "ADDRESS",
+        "content": "Ashta, Dist. Sangli,",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_141",
+        "section_id": "section_28",
+        "title": "ADDRESS",
+        "content": "Maharashtra - 416 301.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_142",
+        "section_id": "section_28",
+        "title": "ADDRESS",
+        "content": "The college is located at Ashta in the Sangli district of Maharashtra.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_143",
+        "section_id": "section_28",
+        "title": "ADDRESS",
+        "content": "The campus has excellent connectivity from Islampur, Kolhapur and Sangli.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_144",
+        "section_id": "section_29",
         "title": "USEFUL LINKS",
-        "content": "Important links provided by the college are DTE Maharashtra, Shivaji University, MahaDBT, National Scholarship Portal, NPTEL, ERP Login, Alumni, RTI, NIRF, AICTE Approvals and Accreditation Status.\nStudents may use the ERP Login for the college enterprise resource planning portal.\nAlumni may update their details using the ADCET Alumni Database Update Form.",
+        "content": "Important links provided by the college are DTE Maharashtra, Shivaji University, MahaDBT, National Scholarship Portal, NPTEL, ERP Login, Alumni, RTI, NIRF, AICTE Approvals and Accreditation Status.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_145",
+        "section_id": "section_29",
+        "title": "USEFUL LINKS",
+        "content": "Students may use the ERP Login for the college enterprise resource planning portal.",
+        "source": "ADCET College Website"
+    },
+    {
+        "chunk_id": "chunk_146",
+        "section_id": "section_29",
+        "title": "USEFUL LINKS",
+        "content": "Alumni may update their details using the ADCET Alumni Database Update Form.",
         "source": "ADCET College Website"
     }
 ]

@@ -6,6 +6,9 @@ const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const INPUT_FILE = resolve(ROOT, "data/cleaned_content.txt");
 const OUTPUT_FILE = resolve(ROOT, "data/chunks.json");
 
+// Facts shorter than this are context lines, not answers
+const MIN_LINE_LENGTH = 15;
+
 
 console.log("=".repeat(55));
 console.log("       ADCET - TEXT CHUNKING");
@@ -31,33 +34,52 @@ const sections = text.trim().split(/\n(?=[A-Z][A-Z\s]+(?:\n|$))/);
 
 const chunks = [];
 
+let sectionCount = 0;
+
 
 // --------------------------------------------------
 // CREATE CHUNKS
+// Each knowledge *line* (one fact, one answer) becomes
+// its own chunk, carrying its section title. Without an
+// LLM to pick the answer out of a big block, retrieval
+// needs the smallest useful unit: a single fact.
 // --------------------------------------------------
 
-for (let index = 0; index < sections.length; index++) {
+for (const section of sections) {
 
-    const section = sections[index].trim();
-
-    if (!section) continue;
-
-    const lines = section.split("\n");
-
-    const title = lines[0].trim();
-
-    const content = lines
-        .slice(1)
+    const lines = section
+        .split("\n")
         .map((line) => line.trim())
-        .filter(Boolean)
-        .join("\n");
+        .filter(Boolean);
 
-    chunks.push({
-        chunk_id: `chunk_${String(index + 1).padStart(3, "0")}`,
-        title,
-        content,
-        source: "ADCET College Website",
-    });
+    if (lines.length === 0) continue;
+
+    sectionCount++;
+
+    const title = lines[0];
+    const body = lines.slice(1);
+
+    let factsInSection = 0;
+
+    for (const line of body) {
+
+        if (line.length < MIN_LINE_LENGTH) continue;
+
+        factsInSection++;
+
+        chunks.push({
+            chunk_id: `chunk_${String(chunks.length + 1).padStart(3, "0")}`,
+            section_id: `section_${String(sectionCount).padStart(2, "0")}`,
+            title,
+            content: line,
+            source: "ADCET College Website",
+        });
+    }
+
+    console.log(
+        `  section ${String(sectionCount).padStart(2, "0")} ` +
+        `-> ${String(factsInSection).padStart(3)} facts  ${title}`
+    );
 }
 
 
@@ -78,14 +100,9 @@ writeFileSync(
 // DISPLAY RESULTS
 // --------------------------------------------------
 
-console.log(`\nChunks created: ${chunks.length}`);
-console.log(`Output file: ${OUTPUT_FILE}`);
-
-console.log("\nChunk titles:");
-
-for (const chunk of chunks) {
-    console.log(`${chunk.chunk_id} -> ${chunk.title}`);
-}
+console.log(`\nSections parsed: ${sectionCount}`);
+console.log(`Chunks created  : ${chunks.length}`);
+console.log(`Output file     : ${OUTPUT_FILE}`);
 
 console.log("\nStatus: CHUNKING COMPLETE");
 console.log("=".repeat(55));

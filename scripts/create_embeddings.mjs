@@ -71,6 +71,7 @@ for (const [index, chunk] of chunks.entries()) {
 
     embeddingData.push({
         chunk_id: chunk.chunk_id,
+        section_id: chunk.section_id,
         title: chunk.title,
         content: chunk.content,
         source: chunk.source,

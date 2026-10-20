@@ -181,8 +181,6 @@ const CATEGORIES = {
         "chairman", "management", "leader"
     ],
 
-    faq: ["faq", "question", "questions"],
-
     eligibility: ["eligible", "eligibility", "criteria"]
 };
 
@@ -224,9 +222,7 @@ const CATEGORY_TITLES = {
 
     notices: ["latest notices"],
 
-    leadership: ["leadership"],
-
-    faq: ["faq"]
+    leadership: ["leadership"]
 };
 
 
@@ -282,7 +278,8 @@ const STOP_WORDS = new Set([
     "who", "what", "when", "where", "why", "how", "which",
     "does", "did", "do", "has", "have", "had", "can", "could",
     "should", "would", "will", "shall", "may", "might",
-    "tell", "about", "please", "there", "much", "many", "more"
+    "tell", "about", "please", "there", "much", "many", "more",
+    "adcet", "college", "institute"
 ]);
 
 
@@ -312,6 +309,21 @@ function informativeMatchScore(query, item) {
 // HYBRID RETRIEVER
 // ============================================================
 
+// The college's own name appears in nearly every fact, so it
+// drowns the actual question in the embedding. Strip it before
+// embedding; keyword and category scoring still use the full
+// query.
+function queryMeaning(query) {
+
+    const stripped = query
+        .replace(/\b(adcet|annasaheb\s+dange|dange)\b/gi, " ")
+        .replace(/\s+/g, " ")
+        .trim();
+
+    return stripped.length >= 2 ? stripped : query;
+}
+
+
 async function retrieve(query, topK = 3) {
 
     // --------------------------------------------------------
@@ -320,7 +332,7 @@ async function retrieve(query, topK = 3) {
 
     const model = await getModel();
 
-    const output = await model(query, { pooling: "mean", normalize: true });
+    const output = await model(queryMeaning(query), { pooling: "mean", normalize: true });
 
     const queryEmbedding = Array.from(output.data);
 
@@ -348,7 +360,7 @@ async function retrieve(query, topK = 3) {
             semantic += normalizedQuery[d] * documentVector[d];
         }
 
-        const keyword = keywordScore(query, item.content);
+        const keyword = keywordScore(query, `${item.title} ${item.content}`);
 
         const category = categoryScore(query, item.title);
 
@@ -356,6 +368,7 @@ async function retrieve(query, topK = 3) {
 
         results.push({
             chunk_id: item.chunk_id,
+            section_id: item.section_id,
             title: item.title,
             content: item.content,
             score,
@@ -391,10 +404,18 @@ function generateAnswer(results, question) {
         return NOT_FOUND_ANSWER;
     }
 
-    // The question has no category match and almost no shared
-    // vocabulary with the knowledge base: it is not about ADCET.
-    if (best.category_score === 0 && informativeMatchScore(question, best) < 0.5) {
-        return NOT_FOUND_ANSWER;
+    // Relevance gate. A single fact rarely repeats the whole
+    // question, so a weak vocabulary overlap only decides the
+    // matter when the meaning is also far off. A category match
+    // always answers.
+    if (best.category_score === 0) {
+
+        const weakWords = informativeMatchScore(question, best) < 0.5;
+        const weakMeaning = best.semantic_score < 0.60;
+
+        if (weakWords && weakMeaning) {
+            return NOT_FOUND_ANSWER;
+        }
     }
 
     // Very weak match overall
@@ -402,7 +423,23 @@ function generateAnswer(results, question) {
         return NOT_FOUND_ANSWER;
     }
 
-    return best.content;
+    // The answer is the best matching fact, plus closely scoring
+    // facts from the same section when they add to it.
+    const lines = [best.content];
+
+    for (const result of results.slice(1)) {
+
+        if (lines.length >= 4) break;
+
+        if (
+            result.section_id === best.section_id &&
+            result.score >= best.score * 0.80
+        ) {
+            lines.push(result.content);
+        }
+    }
+
+    return lines.join("\n");
 }
 
 
@@ -434,7 +471,7 @@ export default async function handler(request, response) {
         // Retrieve
         // ----------------------------------------------------
 
-        const results = await retrieve(question, 3);
+        const results = await retrieve(question, 5);
 
         // ----------------------------------------------------
         // Answer from the knowledge base
